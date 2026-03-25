@@ -20,7 +20,7 @@ int mod(int a, int b)
     return a % b;
 }
 
-int divi(int a, int b)
+int div(int a, int b)
 {
     return a / b;
 }
@@ -72,7 +72,7 @@ int main()
 
         case 4:
             if (num2 != 0)
-                printf("Division %d\n", divi(num1, num2));
+                printf("Division %d\n", div(num1, num2));
             else
                 printf("Cannot divide by zero\n");
             break;
