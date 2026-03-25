@@ -75,7 +75,8 @@ Multiplication is: 28
 ---
 
 ## 📸 Screenshot
-![Calculator Screenshot](<img width="1568" height="983" alt="image" src="https://github.com/user-attachments/assets/d90ef3ca-d428-40e2-8ea9-9b6cf71c341e" />
+<img width="1569" height="952" alt="image" src="https://github.com/user-attachments/assets/3d24a3b7-4272-4e26-a5f9-fbc2d04cbb6a" />
+
 )  
 
 
